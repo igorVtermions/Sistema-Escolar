@@ -37,7 +37,7 @@ O projeto está estruturado em pacotes conforme as responsabilidades:
 ## COMO UTILIZAR ?
 Para executar o projeto localmente, siga estas etapas:
 
-- Clone o repositório (git clone https://github.com/alitakallyne/SistemaEscolar-T3.git).
+- Clone o repositório (git clone https://github.com/igorVtermions/Sistema-Escolar.git).
 - Importe o projeto em sua IDE preferida.
 - Execute a aplicação.
 - Acesse os endpoints através do navegador ou de uma ferramenta de teste de API, como o Insomnia.
